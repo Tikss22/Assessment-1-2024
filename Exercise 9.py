@@ -1,8 +1,8 @@
 def hello():
-    print("Hello")  # This will print "Hello"
+    print("Hello") 
 
 def main(hello):
-    hello()  # Calls the passed function
+    hello() 
 
 if __name__ == "__main__":
-    main(hello)  # Passes the greet function to run
+    main(hello) 
